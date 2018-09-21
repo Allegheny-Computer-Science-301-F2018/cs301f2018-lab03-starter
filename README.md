@@ -1,5 +1,5 @@
 
-# cs301-F2018-lab02
+# cs301-F2018-lab03
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this
 repository contains the starter files for Lab 3 in Computer Science 301.
